@@ -1,0 +1,38 @@
+.p_content{
+    display: flex;
+}
+
+.input{
+    
+    margin-left: 141px;
+    
+}
+
+.p_Cont_p{
+    color: grey;
+    font-size: 11px;
+    margin-left: 1%;
+}
+
+.input_1{
+    width: 20%;
+    height: 3.5vh;
+    margin-left: 118px;
+}
+
+.cofirmPassword{
+    margin-left: 78px;
+
+}
+
+.email{
+    margin-left: 55px
+}
+
+.form{
+    margin-top: 3%;
+}
+
+hr{
+    margin-top: 4%;
+}

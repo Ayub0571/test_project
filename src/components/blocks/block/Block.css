@@ -1,0 +1,32 @@
+
+
+.dot{
+    color: blue;
+    text-decoration: none;
+    border-bottom: dashed;
+    font-size: 12px;
+    margin-left: 55%;
+    margin-top: 5%;
+}
+
+.div_a{
+    margin-left: 10%;
+}
+
+strong{
+    color: grey;
+  }
+
+
+
+.div_back_2{
+    width: 50%;
+    height: 6vh;
+    background-color: rgb(218, 213, 213);
+    margin-left: 227px;
+    margin-top: 1%;
+  }
+
+.p_text_2{
+    padding-top: 10px;
+}
